@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NotificationDemo</string>
+    <string name="create_notification">Tạo Notification</string>
+    <string name="close_notification">Đóng Notification</string>
+    <string name="have_new_notification">Có thông báo</string>
+    <string name="cllick_here_to_update_new_version">Mời bạn nhấp vào đây để cập nhật vertion</string>
 </resources>
